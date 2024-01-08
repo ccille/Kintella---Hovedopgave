@@ -1,0 +1,42 @@
+/* Header.css */
+.App-header {
+    background-color: #282c34;
+    min-height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    padding: 0 7%;
+  }
+  
+.App-header a {
+    color: #61dafb;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+.App-header .nav-links {
+    display: flex;
+    gap: 10px;
+    margin-right: auto;
+  }
+  
+a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+.App-header .login-section {
+    margin-left: auto; /* Dette skubber login-sektionen til højre */
+}
+
+.App-header a:hover {
+    text-decoration: underline;
+  }
+
+  .language-select {
+    margin-left: 20px; /* Tilføj lidt plads mellem login og dropdown */
+}

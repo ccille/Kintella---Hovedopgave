@@ -1,0 +1,66 @@
+.module, .submodule, .text{
+    min-height: 25em;
+    width: 12.5em;
+    border: 1px solid black;
+    padding: 20px 50px 50px 20px; 
+    margin: 10px;
+}
+ul {
+    list-style: none;
+}
+
+li {
+    padding: 1em 0em;
+}
+
+.module_btn, .addText_btn {
+    margin-left: 10px;
+}
+.text{
+    width: 50em;
+    display: flex;
+    flex-direction: column;
+}
+.text hr {
+    width: 100%;
+}
+.textElement {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+.textElement div button{
+    margin: 0.5em;
+}
+.modulewrapper{
+    display: flex;
+}
+.modulewrapper h2 {
+    margin-left: 10px;
+}
+
+.Dropdown{
+    float: right;
+    position: absolute;
+    right: 0px;
+    width: 150px;
+    height: 200px;
+    padding: 5px;
+}
+
+.buttonwrapper{
+    display: flex;
+}
+
+.buttonwrapper button{
+    margin-left: 80px;
+}
+
+.submodulebutton{
+    margin-right: 150px;
+}
+
+.selected {
+    background-color: #bf4bcabf;
+}

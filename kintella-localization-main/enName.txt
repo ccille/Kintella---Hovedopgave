@@ -1,0 +1,869 @@
+Invariant Language (Invariant Country)
+Afar
+Afar (Djibouti)
+Afar (Eritrea)
+Afar (Ethiopia)
+Afrikaans
+Afrikaans (Namibia)
+Afrikaans (South Africa)
+Aghem
+Aghem (Cameroon)
+Akan
+Akan (Ghana)
+Amharic
+Amharic (Ethiopia)
+Arabic
+Arabic (World)
+Arabic (United Arab Emirates)
+Arabic (Bahrain)
+Arabic (Djibouti)
+Arabic (Algeria)
+Arabic (Egypt)
+Arabic (Eritrea)
+Arabic (Israel)
+Arabic (Iraq)
+Arabic (Jordan)
+Arabic (Comoros)
+Arabic (Kuwait)
+Arabic (Lebanon)
+Arabic (Libya)
+Arabic (Morocco)
+Arabic (Mauritania)
+Arabic (Oman)
+Arabic (Palestinian Authority)
+Arabic (Qatar)
+Arabic (Saudi Arabia)
+Arabic (Sudan)
+Arabic (Somalia)
+Arabic (South Sudan)
+Arabic (Syria)
+Arabic (Chad)
+Arabic (Tunisia)
+Arabic (Yemen)
+Mapuche
+Mapuche (Chile)
+Assamese
+Assamese (India)
+Asu
+Asu (Tanzania)
+Asturian
+Asturian (Spain)
+Azerbaijani
+Azerbaijani (Cyrillic)
+Azerbaijani (Cyrillic, Azerbaijan)
+Azerbaijani (Latin)
+Azerbaijani (Latin, Azerbaijan)
+Bashkir
+Bashkir (Russia)
+Basaa
+Basaa (Cameroon)
+Belarusian
+Belarusian (Belarus)
+Bemba
+Bemba (Zambia)
+Bena
+Bena (Tanzania)
+Bulgarian
+Bulgarian (Bulgaria)
+Edo
+Edo (Nigeria)
+Bamanankan
+Bamanankan (Mali)
+Bangla
+Bangla (Bangladesh)
+Bangla (India)
+Tibetan
+Tibetan (China)
+Tibetan (India)
+Breton
+Breton (France)
+Bodo
+Bodo (India)
+Bosnian
+Bosnian (Cyrillic)
+Bosnian (Cyrillic, Bosnia & Herzegovina)
+Bosnian (Latin)
+Bosnian (Latin, Bosnia & Herzegovina)
+Blin
+Blin (Eritrea)
+Catalan
+Catalan (Andorra)
+Catalan (Spain)
+Catalan (France)
+Catalan (Italy)
+Chakma
+Chakma (Bangladesh)
+Chakma (India)
+Chechen
+Chechen (Russia)
+Cebuano
+Cebuano (Philippines)
+Chiga
+Chiga (Uganda)
+Cherokee
+Cherokee (United States)
+Central Kurdish
+Central Kurdish (Iraq)
+Central Kurdish (Iran)
+Corsican
+Corsican (France)
+Czech
+Czech (Czechia)
+Church Slavic
+Church Slavic (Russia)
+Welsh
+Welsh (United Kingdom)
+Danish
+Danish (Denmark)
+Danish (Greenland)
+Taita
+Taita (Kenya)
+German
+German (Austria)
+German (Belgium)
+German (Switzerland)
+German (Germany)
+German (Italy)
+German (Liechtenstein)
+German (Luxembourg)
+Zarma
+Zarma (Niger)
+Dogri
+Dogri (India)
+Lower Sorbian
+Lower Sorbian (Germany)
+Duala
+Duala (Cameroon)
+Divehi
+Divehi (Maldives)
+Jola-Fonyi
+Jola-Fonyi (Senegal)
+Dzongkha
+Dzongkha (Bhutan)
+Embu
+Embu (Kenya)
+Ewe
+Ewe (Ghana)
+Ewe (Togo)
+Greek
+Greek (Cyprus)
+Greek (Greece)
+English
+English (World)
+English (Caribbean)
+English (Europe)
+English (United Arab Emirates)
+English (Antigua & Barbuda)
+English (Anguilla)
+English (American Samoa)
+English (Austria)
+English (Australia)
+English (Barbados)
+English (Belgium)
+English (Burundi)
+English (Bermuda)
+English (Bahamas)
+English (Botswana)
+English (Belize)
+English (Canada)
+English (Cocos [Keeling] Islands)
+English (Switzerland)
+English (Cook Islands)
+English (Cameroon)
+English (Christmas Island)
+English (Cyprus)
+English (Germany)
+English (Denmark)
+English (Dominica)
+English (Eritrea)
+English (Finland)
+English (Fiji)
+English (Falkland Islands)
+English (Micronesia)
+English (United Kingdom)
+English (Grenada)
+English (Guernsey)
+English (Ghana)
+English (Gibraltar)
+English (Gambia)
+English (Guam)
+English (Guyana)
+English (Hong Kong SAR)
+English (Indonesia)
+English (Ireland)
+English (Israel)
+English (Isle of Man)
+English (India)
+English (British Indian Ocean Territory)
+English (Jersey)
+English (Jamaica)
+English (Kenya)
+English (Kiribati)
+English (St. Kitts & Nevis)
+English (Cayman Islands)
+English (St. Lucia)
+English (Liberia)
+English (Lesotho)
+English (Madagascar)
+English (Marshall Islands)
+English (Macao SAR)
+English (Northern Mariana Islands)
+English (Montserrat)
+English (Malta)
+English (Mauritius)
+English (Malawi)
+English (Malaysia)
+English (Namibia)
+English (Norfolk Island)
+English (Nigeria)
+English (Netherlands)
+English (Nauru)
+English (Niue)
+English (New Zealand)
+English (Papua New Guinea)
+English (Philippines)
+English (Pakistan)
+English (Pitcairn Islands)
+English (Puerto Rico)
+English (Palau)
+English (Rwanda)
+English (Solomon Islands)
+English (Seychelles)
+English (Sudan)
+English (Sweden)
+English (Singapore)
+English (St Helena, Ascension, Tristan da Cunha)
+English (Slovenia)
+English (Sierra Leone)
+English (South Sudan)
+English (Sint Maarten)
+English (Eswatini)
+English (Turks & Caicos Islands)
+English (Tokelau)
+English (Tonga)
+English (Trinidad & Tobago)
+English (Tuvalu)
+English (Tanzania)
+English (Uganda)
+English (U.S. Outlying Islands)
+English (United States)
+English (United States, Computer)
+English (St. Vincent & Grenadines)
+English (British Virgin Islands)
+English (U.S. Virgin Islands)
+English (Vanuatu)
+English (Samoa)
+English (South Africa)
+English (Zambia)
+English (Zimbabwe)
+Esperanto
+Esperanto (World)
+Spanish
+Spanish (Latin America)
+Spanish (Argentina)
+Spanish (Bolivia)
+Spanish (Brazil)
+Spanish (Belize)
+Spanish (Chile)
+Spanish (Colombia)
+Spanish (Costa Rica)
+Spanish (Cuba)
+Spanish (Dominican Republic)
+Spanish (Ecuador)
+Spanish (Spain)
+Spanish (Equatorial Guinea)
+Spanish (Guatemala)
+Spanish (Honduras)
+Spanish (Mexico)
+Spanish (Nicaragua)
+Spanish (Panama)
+Spanish (Peru)
+Spanish (Philippines)
+Spanish (Puerto Rico)
+Spanish (Paraguay)
+Spanish (El Salvador)
+Spanish (United States)
+Spanish (Uruguay)
+Spanish (Venezuela)
+Estonian
+Estonian (Estonia)
+Basque
+Basque (Spain)
+Ewondo
+Ewondo (Cameroon)
+Persian
+Persian (Afghanistan)
+Persian (Iran)
+Fulah
+Fulah (Adlam)
+Fulah (Adlam, Burkina Faso)
+Fulah (Adlam, Cameroon)
+Fulah (Adlam, Ghana)
+Fulah (Adlam, Gambia)
+Fulah (Adlam, Guinea)
+Fulah (Adlam, Guinea-Bissau)
+Fulah (Adlam, Liberia)
+Fulah (Adlam, Mauritania)
+Fulah (Adlam, Niger)
+Fulah (Adlam, Nigeria)
+Fulah (Adlam, Sierra Leone)
+Fulah (Adlam, Senegal)
+Fulah (Latin)
+Fulah (Latin, Burkina Faso)
+Fulah (Latin, Cameroon)
+Fulah (Latin, Ghana)
+Fulah (Latin, Gambia)
+Fulah (Latin, Guinea)
+Fulah (Latin, Guinea-Bissau)
+Fulah (Latin, Liberia)
+Fulah (Latin, Mauritania)
+Fulah (Latin, Niger)
+Fulah (Latin, Nigeria)
+Fulah (Latin, Sierra Leone)
+Fulah (Latin, Senegal)
+Finnish
+Finnish (Finland)
+Filipino
+Filipino (Philippines)
+Faroese
+Faroese (Denmark)
+Faroese (Faroe Islands)
+French
+French (Caribbean)
+French (Belgium)
+French (Burkina Faso)
+French (Burundi)
+French (Benin)
+French (St. Barthélemy)
+French (Canada)
+French (Congo [DRC])
+French (Central African Republic)
+French (Congo)
+French (Switzerland)
+French (Côte d’Ivoire)
+French (Cameroon)
+French (Djibouti)
+French (Algeria)
+French (France)
+French (Gabon)
+French (French Guiana)
+French (Guinea)
+French (Guadeloupe)
+French (Equatorial Guinea)
+French (Haiti)
+French (Comoros)
+French (Luxembourg)
+French (Morocco)
+French (Monaco)
+French (St. Martin)
+French (Madagascar)
+French (Mali)
+French (Martinique)
+French (Mauritania)
+French (Mauritius)
+French (New Caledonia)
+French (Niger)
+French (French Polynesia)
+French (St. Pierre & Miquelon)
+French (Réunion)
+French (Rwanda)
+French (Seychelles)
+French (Senegal)
+French (Syria)
+French (Chad)
+French (Togo)
+French (Tunisia)
+French (Vanuatu)
+French (Wallis & Futuna)
+French (Mayotte)
+Friulian
+Friulian (Italy)
+Western Frisian
+Western Frisian (Netherlands)
+Irish
+Irish (United Kingdom)
+Irish (Ireland)
+Scottish Gaelic
+Scottish Gaelic (United Kingdom)
+Galician
+Galician (Spain)
+Guarani
+Guarani (Paraguay)
+Swiss German
+Swiss German (Switzerland)
+Swiss German (France)
+Swiss German (Liechtenstein)
+Gujarati
+Gujarati (India)
+Gusii
+Gusii (Kenya)
+Manx
+Manx (Isle of Man)
+Hausa
+Hausa (Ghana)
+Hausa (Niger)
+Hausa (Nigeria)
+Hawaiian
+Hawaiian (United States)
+Hebrew
+Hebrew (Israel)
+Hindi
+Hindi (India)
+Croatian
+Croatian (Bosnia & Herzegovina)
+Croatian (Croatia)
+Upper Sorbian
+Upper Sorbian (Germany)
+Hungarian
+Hungarian (Hungary)
+Armenian
+Armenian (Armenia)
+Interlingua
+Interlingua (World)
+Ibibio
+Ibibio (Nigeria)
+Indonesian
+Indonesian (Indonesia)
+Igbo
+Igbo (Nigeria)
+Yi
+Yi (China)
+Icelandic
+Icelandic (Iceland)
+Italian
+Italian (Switzerland)
+Italian (Italy)
+Italian (San Marino)
+Italian (Vatican City)
+Inuktitut
+Inuktitut (Canada)
+Inuktitut (Latin)
+Inuktitut (Latin, Canada)
+Japanese
+Japanese (Japan)
+Ngomba
+Ngomba (Cameroon)
+Machame
+Machame (Tanzania)
+Javanese
+Javanese (Indonesia)
+Javanese (Javanese)
+Javanese (Javanese, Indonesia)
+Georgian
+Georgian (Georgia)
+Kabyle
+Kabyle (Algeria)
+Kamba
+Kamba (Kenya)
+Makonde
+Makonde (Tanzania)
+Kabuverdianu
+Kabuverdianu (Cabo Verde)
+Koyra Chiini
+Koyra Chiini (Mali)
+Kikuyu
+Kikuyu (Kenya)
+Kazakh
+Kazakh (Kazakhstan)
+Kako
+Kako (Cameroon)
+Kalaallisut
+Kalaallisut (Greenland)
+Kalenjin
+Kalenjin (Kenya)
+Khmer
+Khmer (Cambodia)
+Kannada
+Kannada (India)
+Korean
+Korean (North Korea)
+Korean (Korea)
+Konkani
+Konkani (India)
+Kanuri
+Kanuri (Latin)
+Kanuri (Latin, Nigeria)
+Kashmiri
+Kashmiri (Arabic)
+Kashmiri (Arabic, India)
+Kashmiri (Devanagari)
+Kashmiri (Devanagari, India)
+Shambala
+Shambala (Tanzania)
+Bafia
+Bafia (Cameroon)
+Colognian
+Colognian (Germany)
+Cornish
+Cornish (United Kingdom)
+Kyrgyz
+Kyrgyz (Kyrgyzstan)
+Latin
+Latin (Vatican City)
+Langi
+Langi (Tanzania)
+Luxembourgish
+Luxembourgish (Luxembourg)
+Ganda
+Ganda (Uganda)
+Lakota
+Lakota (United States)
+Lingala
+Lingala (Angola)
+Lingala (Congo [DRC])
+Lingala (Central African Republic)
+Lingala (Congo)
+Lao
+Lao (Laos)
+Northern Luri
+Northern Luri (Iraq)
+Northern Luri (Iran)
+Lithuanian
+Lithuanian (Lithuania)
+Luba-Katanga
+Luba-Katanga (Congo [DRC])
+Luo
+Luo (Kenya)
+Luyia
+Luyia (Kenya)
+Latvian
+Latvian (Latvia)
+Maithili
+Maithili (India)
+Masai
+Masai (Kenya)
+Masai (Tanzania)
+Meru
+Meru (Kenya)
+Morisyen
+Morisyen (Mauritius)
+Malagasy
+Malagasy (Madagascar)
+Makhuwa-Meetto
+Makhuwa-Meetto (Mozambique)
+Metaʼ
+Metaʼ (Cameroon)
+Maori
+Maori (New Zealand)
+Macedonian
+Macedonian (North Macedonia)
+Malayalam
+Malayalam (India)
+Mongolian
+Mongolian (Mongolia)
+Mongolian (Mongolian)
+Mongolian (Mongolian, China)
+Mongolian (Mongolian, Mongolia)
+Manipuri
+Manipuri (Bangla)
+Manipuri (Bangla, India)
+Mohawk
+Mohawk (Canada)
+Marathi
+Marathi (India)
+Malay
+Malay (Brunei)
+Malay (Indonesia)
+Malay (Malaysia)
+Malay (Singapore)
+Maltese
+Maltese (Malta)
+Mundang
+Mundang (Cameroon)
+Burmese
+Burmese (Myanmar)
+Mazanderani
+Mazanderani (Iran)
+Nama
+Nama (Namibia)
+Norwegian Bokmål
+Norwegian Bokmål (Norway)
+Norwegian Bokmål (Svalbard & Jan Mayen)
+North Ndebele
+North Ndebele (Zimbabwe)
+Low German
+Low German (Germany)
+Low German (Netherlands)
+Nepali
+Nepali (India)
+Nepali (Nepal)
+Dutch
+Dutch (Aruba)
+Dutch (Belgium)
+Dutch (Bonaire, Sint Eustatius and Saba)
+Dutch (Curaçao)
+Dutch (Netherlands)
+Dutch (Suriname)
+Dutch (Sint Maarten)
+Kwasio
+Kwasio (Cameroon)
+Norwegian Nynorsk
+Norwegian Nynorsk (Norway)
+Ngiemboon
+Ngiemboon (Cameroon)
+N’Ko
+N’Ko (Guinea)
+South Ndebele
+South Ndebele (South Africa)
+Sesotho sa Leboa
+Sesotho sa Leboa (South Africa)
+Nuer
+Nuer (South Sudan)
+Nyankole
+Nyankole (Uganda)
+Occitan
+Occitan (France)
+Oromo
+Oromo (Ethiopia)
+Oromo (Kenya)
+Odia
+Odia (India)
+Ossetic
+Ossetic (Georgia)
+Ossetic (Russia)
+Punjabi
+Punjabi (Arabic)
+Punjabi (Arabic, Pakistan)
+Punjabi (Gurmukhi)
+Punjabi (Gurmukhi, India)
+Papiamento
+Papiamento (Caribbean)
+Nigerian Pidgin
+Nigerian Pidgin (Nigeria)
+Polish
+Polish (Poland)
+Prussian
+Prussian (World)
+Pashto
+Pashto (Afghanistan)
+Pashto (Pakistan)
+Portuguese
+Portuguese (Angola)
+Portuguese (Brazil)
+Portuguese (Switzerland)
+Portuguese (Cabo Verde)
+Portuguese (Equatorial Guinea)
+Portuguese (Guinea-Bissau)
+Portuguese (Luxembourg)
+Portuguese (Macao SAR)
+Portuguese (Mozambique)
+Portuguese (Portugal)
+Portuguese (São Tomé & Príncipe)
+Portuguese (Timor-Leste)
+Quechua
+Quechua (Bolivia)
+Quechua (Ecuador)
+Quechua (Peru)
+Kʼicheʼ
+Kʼicheʼ (Guatemala)
+Romansh
+Romansh (Switzerland)
+Rundi
+Rundi (Burundi)
+Romanian
+Romanian (Moldova)
+Romanian (Romania)
+Rombo
+Rombo (Tanzania)
+Russian
+Russian (Belarus)
+Russian (Kyrgyzstan)
+Russian (Kazakhstan)
+Russian (Moldova)
+Russian (Russia)
+Russian (Ukraine)
+Kinyarwanda
+Kinyarwanda (Rwanda)
+Rwa
+Rwa (Tanzania)
+Sanskrit
+Sanskrit (India)
+Sakha
+Sakha (Russia)
+Samburu
+Samburu (Kenya)
+Santali
+Santali (Ol Chiki)
+Santali (Ol Chiki, India)
+Sangu
+Sangu (Tanzania)
+Sindhi
+Sindhi (Arabic)
+Sindhi (Arabic, Pakistan)
+Sindhi (Devanagari)
+Sindhi (Devanagari, India)
+Northern Sami
+Northern Sami (Finland)
+Northern Sami (Norway)
+Northern Sami (Sweden)
+Sena
+Sena (Mozambique)
+Koyraboro Senni
+Koyraboro Senni (Mali)
+Sango
+Sango (Central African Republic)
+Tachelhit
+Tachelhit (Latin)
+Tachelhit (Latin, Morocco)
+Tachelhit (Tifinagh)
+Tachelhit (Tifinagh, Morocco)
+Sinhala
+Sinhala (Sri Lanka)
+Slovak
+Slovak (Slovakia)
+Slovenian
+Slovenian (Slovenia)
+Southern Sami
+Southern Sami (Norway)
+Southern Sami (Sweden)
+Lule Sami
+Lule Sami (Norway)
+Lule Sami (Sweden)
+Inari Sami
+Inari Sami (Finland)
+Skolt Sami
+Skolt Sami (Finland)
+Shona
+Shona (Zimbabwe)
+Somali
+Somali (Djibouti)
+Somali (Ethiopia)
+Somali (Kenya)
+Somali (Somalia)
+Albanian
+Albanian (Albania)
+Albanian (North Macedonia)
+Albanian (Kosovo)
+Serbian
+Serbian (Cyrillic)
+Serbian (Cyrillic, Bosnia & Herzegovina)
+Serbian (Cyrillic, Montenegro)
+Serbian (Cyrillic, Serbia)
+Serbian (Cyrillic, Kosovo)
+Serbian (Latin)
+Serbian (Latin, Bosnia & Herzegovina)
+Serbian (Latin, Montenegro)
+Serbian (Latin, Serbia)
+Serbian (Latin, Kosovo)
+siSwati
+siSwati (Eswatini)
+siSwati (South Africa)
+Saho
+Saho (Eritrea)
+Sesotho
+Sesotho (Lesotho)
+Sesotho (South Africa)
+Sundanese
+Sundanese (Latin)
+Sundanese (Latin, Indonesia)
+Swedish
+Swedish (Åland Islands)
+Swedish (Finland)
+Swedish (Sweden)
+Kiswahili
+Kiswahili (Congo [DRC])
+Kiswahili (Kenya)
+Kiswahili (Tanzania)
+Kiswahili (Uganda)
+Syriac
+Syriac (Syria)
+Tamil
+Tamil (India)
+Tamil (Sri Lanka)
+Tamil (Malaysia)
+Tamil (Singapore)
+Telugu
+Telugu (India)
+Teso
+Teso (Kenya)
+Teso (Uganda)
+Tajik
+Tajik (Tajikistan)
+Thai
+Thai (Thailand)
+Tigrinya
+Tigrinya (Eritrea)
+Tigrinya (Ethiopia)
+Tigre
+Tigre (Eritrea)
+Turkmen
+Turkmen (Turkmenistan)
+Setswana
+Setswana (Botswana)
+Setswana (South Africa)
+Tongan
+Tongan (Tonga)
+Turkish
+Turkish (Cyprus)
+Turkish (Turkey)
+Xitsonga
+Xitsonga (South Africa)
+Tatar
+Tatar (Russia)
+Tasawaq
+Tasawaq (Niger)
+Central Atlas Tamazight
+Central Atlas Tamazight (Arabic)
+Central Atlas Tamazight (Arabic, Morocco)
+Central Atlas Tamazight (Algeria)
+Central Atlas Tamazight (Morocco)
+Central Atlas Tamazight (Tifinagh)
+Central Atlas Tamazight (Tifinagh, Morocco)
+Uyghur
+Uyghur (China)
+Ukrainian
+Ukrainian (Ukraine)
+Urdu
+Urdu (India)
+Urdu (Pakistan)
+Uzbek
+Uzbek (Arabic)
+Uzbek (Arabic, Afghanistan)
+Uzbek (Cyrillic)
+Uzbek (Cyrillic, Uzbekistan)
+Uzbek (Latin)
+Uzbek (Latin, Uzbekistan)
+Vai
+Vai (Latin)
+Vai (Latin, Liberia)
+Vai (Vai)
+Vai (Vai, Liberia)
+Venda
+Venda (South Africa)
+Vietnamese
+Vietnamese (Vietnam)
+Volapük
+Volapük (World)
+Vunjo
+Vunjo (Tanzania)
+Walser
+Walser (Switzerland)
+Wolaytta
+Wolaytta (Ethiopia)
+Wolof
+Wolof (Senegal)
+isiXhosa
+isiXhosa (South Africa)
+Soga
+Soga (Uganda)
+Yangben
+Yangben (Cameroon)
+Yiddish
+Yiddish (World)
+Yoruba
+Yoruba (Benin)
+Yoruba (Nigeria)
+Standard Moroccan Tamazight
+Standard Moroccan Tamazight (Morocco)
+Chinese
+Chinese (Simplified)
+Chinese (Simplified, China)
+Chinese (Simplified, Hong Kong SAR)
+Chinese (Simplified, Macao SAR)
+Chinese (Simplified, Singapore)
+Chinese (Traditional)
+Chinese (Traditional, Hong Kong SAR)
+Chinese (Traditional, Macao SAR)
+Chinese (Traditional, Taiwan)
+isiZulu
+isiZulu (South Africa)

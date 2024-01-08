@@ -1,0 +1,47 @@
+
+.Textwrapper {
+    height: 25em;
+    width: 100%;
+    border: 1px solid black;
+    padding: 20px 50px 50px 20px; 
+    margin: 10px 30px 30px 10px;
+}
+
+.Textwrapper button {
+    margin: 0.5em;
+}
+.Textwrapper input[type = "checkbox"] {
+    margin-right: 1em;
+}
+.ContentWrapper {
+    width: 40%;
+}
+.ContentWrapper h2 {
+    text-align: center;
+}
+
+.Textareawrapper{
+    margin-left: 60%;
+    margin-top: -31.5%;
+    width: 40%;
+}
+.Textareawrapper textarea {
+    height: 12em;
+    width: 35em;
+    resize: none;
+}
+
+
+.TopBtns {
+    /* margin-left: 10px; */
+    text-align: center;
+}
+.TopBtns button {
+    margin: 0 1em 0 0;
+}
+.Textwrapper div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
